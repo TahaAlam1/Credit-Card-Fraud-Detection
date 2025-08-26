@@ -13,6 +13,7 @@ Focused on precision, recall, and F1-score to measure fraud detection performanc
 🧠 Model Performance
 Model	Accuracy
 🌲 Random Forest	99.77%
+
 🌿 Decision Tree	99.44%
 🧮 Logistic Regression / SVM	~92%
 📊 Techniques & Tools
