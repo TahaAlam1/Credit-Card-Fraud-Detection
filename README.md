@@ -30,10 +30,6 @@ Tools: Python, Jupyter Notebook, Scikit-learn, Pandas, Numpy, Matplotlib
 
 🚀 How to Use
 
-Clone the repo
-
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
-
 Install dependencies
 
 pip install -r requirements.txt
